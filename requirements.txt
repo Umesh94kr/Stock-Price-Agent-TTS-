@@ -1,0 +1,6 @@
+google-genai
+yfinance
+python-dotenv
+elevenlabs
+flask-socketio 
+eventlet
